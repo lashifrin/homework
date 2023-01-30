@@ -9,4 +9,5 @@ GET: http://localhost:8080/products/1
 POST: http://localhost:8080/products/create with body: {"name":"device1", "description": "sample description"}
 PUT: http://localhost:8080/products/3 with body: {"name":"device1", "description": "description update"}
 DELETE: http://localhost:8080/products/1
+added support for docker
 
